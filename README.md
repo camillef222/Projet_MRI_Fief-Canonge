@@ -5,4 +5,5 @@ des propriétés physico-chimiques
 capture campagnes téléphoniques pour souscription à un dépôt
 3. SMS Spam Collection: Détection des spams et des hams dans des messages textuels (5574
 observations)
+
 Vous trouverez dans github les 3 notebooks d'exploration de nos 3 datasets, ainsi que le pdf d'explication du projet et l'analyse des résultats.
