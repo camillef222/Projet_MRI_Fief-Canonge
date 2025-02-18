@@ -1,4 +1,4 @@
-Dans ce github nous explorons différents datasets avec différents classifieurs afin de réaliser une analyse exploratoire de 3 datasets. 
+Dans ce github nous explorons différents datasets à l'aide de différents classifieurs afin de réaliser une analyse exploratoire de 3 datasets. 
 1. Wine Quality: Données chimiques des vins, 6497 échantillons: évaluation en fonction
 des propriétés physico-chimiques
 2. Adult:  Données démographiques et économiques, 48 842 enregistrements:
